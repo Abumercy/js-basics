@@ -10,7 +10,7 @@ let lastName = "Abu";
 let stuternTrack = "Backend Development";
 let skills = "Git, HTML, CSS";
 let favoriteColor = "Blue";
-let yearOfIndependent = "1960";
+let yearOfIndependent = 1960;
 
 // logging the sentence in the console
 console.log(
@@ -24,7 +24,9 @@ console.log(
     skills +
     ". My favorite color is " +
     favoriteColor +
-    ". The year my country gained her independence is in  " +
+    ". The year my country gained her independence is in " +
     yearOfIndependent +
     "."
 );
+
+// https://github.com/Abumercy/js-basics
